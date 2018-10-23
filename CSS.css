@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+
+.Body
+{
+	font-family:Calibri;
+	color:#FFF;
+	background-color: #003366;
+}
+
+.Title
+{
+	color: Goldenrod;
+}
+
+.Maptable
+{
+	float:left;
+}
+
+.DYKTable
+{
+	float:left;
+}
+
+.minititle
+{
+	color: #50C878;
+}
+
+.minititle2
+{
+	color: #DB1F2A;
+}
+	
+	
